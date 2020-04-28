@@ -16,7 +16,7 @@
 
 ### [KNNs Demo (Stanford_CS231)](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
 ### [Linear Classification Loss Visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
-####Description: Visualization tools that accompany [Stanford University's CS-231](http://vision.stanford.edu/teaching/cs231n/)
+#### Description: Visualization tools that accompany [Stanford University's CS-231](http://vision.stanford.edu/teaching/cs231n/)
 
 ### [Feed Forward NNs, Visual Mathematics](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
 #### Description: This is another excellent set of visualization tools which provide views of the basic operations of NNs.
