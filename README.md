@@ -1,6 +1,6 @@
 # Visualizing Neural Networks
 
-## Why would we be interested in visualizing NNs"? [This topic has been addressed at NeurIPS, and I'll provide slides for some of what Google teams have shared there in 2018, but here is a useful introduction.](https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/)
+## Why be interested in visualizing NNs? [This topic was helpfully addressed at NeurIPS2018, and I'll provide slides for some of what one Google research team shared there.]
 
 ### [Interactive Visualization of Node Links for CNNs](https://www.cs.ryerson.ca/~aharley/vis/fc/)
 #### Description: This is an incredible visualization of the MNIST number recognizer that is frequently used as a "hello world" project for ML.  This site has several visualization tools, and an [accompanying paper](https://www.cs.ryerson.ca/~aharley/vis/harley_vis_isvc15.pdf). Not to be missed!
@@ -22,6 +22,10 @@
 #### Description: This is another excellent set of visualization tools which provide views of the basic operations of NNs.
 #### Don't miss the [sigmoid activation](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization) and here is [ReLU activation](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#relu-visualization)
 
-## Other Resources
+## [Google's DeepDream Project](https://en.wikipedia.org/wiki/DeepDream) 
 
-http://ufldl.stanford.edu/tutorial/
+## [Here is an argument for using visualization to understand and improve feature extraction with ConvolutionalNNs](https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/)
+
+# Other Resources
+
+### http://ufldl.stanford.edu/tutorial/
