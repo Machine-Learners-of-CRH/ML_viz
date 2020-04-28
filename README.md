@@ -15,7 +15,7 @@
 #### Description: See [this article](https://towardsdatascience.com/visualizing-artificial-neural-networks-anns-with-just-one-line-of-code-b4233607209e) for general description. Might be a useful tool for some projects, if the NN architecture seems unwieldy.
 
 ### [KNNs Demo (Stanford_CS231)](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
-### [Linear Classification Loss Visualization](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
+### [Linear Classification Loss Visualization (Stanford CS231)](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)
 #### Description: Visualization tools that accompany [Stanford University's CS-231](http://vision.stanford.edu/teaching/cs231n/)
 
 ### [Feed Forward NNs, Visual Mathematics](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
