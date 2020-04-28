@@ -20,7 +20,7 @@
 
 ### [Feed Forward NNs, Visual Mathematics](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
 #### Description: This is another excellent set of visualization tools which provide views of the basic operations of NNs.
-#### Don't miss the [sigmoid activation demo](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization)
+#### Don't miss the [sigmoid activation](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization) and here is [ReLU activation](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#relu-visualization)
 
 ## Other Resources
 
