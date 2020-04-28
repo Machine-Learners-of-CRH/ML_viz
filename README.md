@@ -20,11 +20,11 @@
 
 ### [Feed Forward NNs, Visual Mathematics](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
 #### Description: This is another excellent set of visualization tools which provide views of the basic operations of NNs.
-#### Don't miss the [sigmoid activation](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization) and here is [ReLU activation](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#relu-visualization)
+#### Don't miss [sigmoid activation](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#sigmoid-visualization) and [ReLU activation](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/#relu-visualization)
 
-## [Google's DeepDream Project](https://en.wikipedia.org/wiki/DeepDream) 
+### [Google's DeepDream Project](https://en.wikipedia.org/wiki/DeepDream) 
 
-## [Here is an argument for using visualization to understand and improve feature extraction with ConvolutionalNNs](https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/)
+### [Here is an argument for using visualization to understand and improve feature extraction with ConvolutionalNNs](https://www.analyticsvidhya.com/blog/2019/05/understanding-visualizing-neural-networks/)
 
 # Other Resources
 
